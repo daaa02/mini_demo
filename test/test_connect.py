@@ -92,3 +92,4 @@ async def main():
 
 if __name__ == '__main__':
     asyncio.run(main())
+    # test_get_device_by_name()
